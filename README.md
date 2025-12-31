@@ -44,9 +44,7 @@ src/
 ├── components/
 │   ├── Header.tsx                   # Navigation header with search
 │   ├── BeerItem.tsx                 # Individual beer card component
-│   └── BeerDetailModal.tsx          # Modal for detailed beer information
-├── hooks/
-│   └── useBeerImage.ts              # Custom hook for beer images
+│   └── BeerDetailModal.tsx          # Modal for detailed beer information             
 ├── utils/
 │   ├── api.ts                       # API client with error handling
 │   └── favorites.ts                 # Favorites management utilities
